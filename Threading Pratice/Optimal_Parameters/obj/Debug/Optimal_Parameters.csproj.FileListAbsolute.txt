@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\Threading Pratice\Optimal_Parameters\bin\Debug\Optimal_Parameters.exe.config
+C:\Users\hp\Documents\Threading Pratice\Optimal_Parameters\bin\Debug\Optimal_Parameters.exe
+C:\Users\hp\Documents\Threading Pratice\Optimal_Parameters\bin\Debug\Optimal_Parameters.pdb
+C:\Users\hp\Documents\Threading Pratice\Optimal_Parameters\obj\Debug\Optimal_Parameters.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Threading Pratice\Optimal_Parameters\obj\Debug\Optimal_Parameters.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Threading Pratice\Optimal_Parameters\obj\Debug\Optimal_Parameters.exe
+C:\Users\hp\Documents\Threading Pratice\Optimal_Parameters\obj\Debug\Optimal_Parameters.pdb

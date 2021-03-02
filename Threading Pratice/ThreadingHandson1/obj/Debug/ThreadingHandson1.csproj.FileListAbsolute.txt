@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\Threading Pratice\ThreadingHandson1\bin\Debug\ThreadingHandson1.exe.config
+C:\Users\hp\Documents\Threading Pratice\ThreadingHandson1\bin\Debug\ThreadingHandson1.exe
+C:\Users\hp\Documents\Threading Pratice\ThreadingHandson1\bin\Debug\ThreadingHandson1.pdb
+C:\Users\hp\Documents\Threading Pratice\ThreadingHandson1\obj\Debug\ThreadingHandson1.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Threading Pratice\ThreadingHandson1\obj\Debug\ThreadingHandson1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Threading Pratice\ThreadingHandson1\obj\Debug\ThreadingHandson1.exe
+C:\Users\hp\Documents\Threading Pratice\ThreadingHandson1\obj\Debug\ThreadingHandson1.pdb

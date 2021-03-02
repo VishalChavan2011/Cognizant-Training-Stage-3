@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ObkuepWm7hLbVyWCyQ6EjZiEDrFuN5y0XgqGFtwxBXTQJCSrgp1378xYEMsnKze6dm5vlaU+c5KfJ82g2xqCMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Documents\\Nunit Testing\\CalcLibrarySession2\\CalcLibrary\\CalcLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
