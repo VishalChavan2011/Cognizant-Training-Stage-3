@@ -1,7 +1,0 @@
-C:\Users\hp\Documents\Nunit Testing\Mock2PropertyDemo\bin\Debug\Mock2PropertyDemo.exe.config
-C:\Users\hp\Documents\Nunit Testing\Mock2PropertyDemo\bin\Debug\Mock2PropertyDemo.exe
-C:\Users\hp\Documents\Nunit Testing\Mock2PropertyDemo\bin\Debug\Mock2PropertyDemo.pdb
-C:\Users\hp\Documents\Nunit Testing\Mock2PropertyDemo\obj\Debug\Mock2PropertyDemo.csprojAssemblyReference.cache
-C:\Users\hp\Documents\Nunit Testing\Mock2PropertyDemo\obj\Debug\Mock2PropertyDemo.csproj.CoreCompileInputs.cache
-C:\Users\hp\Documents\Nunit Testing\Mock2PropertyDemo\obj\Debug\Mock2PropertyDemo.exe
-C:\Users\hp\Documents\Nunit Testing\Mock2PropertyDemo\obj\Debug\Mock2PropertyDemo.pdb
