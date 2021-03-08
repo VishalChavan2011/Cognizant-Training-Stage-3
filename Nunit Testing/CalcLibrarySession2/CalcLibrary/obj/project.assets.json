@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Documents\\Nunit Testing\\CalcLibrarySession2\\CalcLibrary\\CalcLibrary.csproj",
+      "projectUniqueName": "D:\\Cognizant Stage 3\\Nunit Testing\\CalcLibrarySession2\\CalcLibrary\\CalcLibrary.csproj",
       "projectName": "CalcLibrary",
-      "projectPath": "C:\\Users\\hp\\Documents\\Nunit Testing\\CalcLibrarySession2\\CalcLibrary\\CalcLibrary.csproj",
+      "projectPath": "D:\\Cognizant Stage 3\\Nunit Testing\\CalcLibrarySession2\\CalcLibrary\\CalcLibrary.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Documents\\Nunit Testing\\CalcLibrarySession2\\CalcLibrary\\obj\\",
+      "outputPath": "D:\\Cognizant Stage 3\\Nunit Testing\\CalcLibrarySession2\\CalcLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

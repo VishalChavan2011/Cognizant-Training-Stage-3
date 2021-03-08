@@ -1,0 +1,15 @@
+﻿@model List<string>
+
+@foreach (var item in Model)
+{
+    if (item == "Amazon")
+    {
+        <p><b>@Html.DisplayFor(m => item)</b></p>
+    }
+    else
+    {
+        <p>@Html.DisplayFor(m => item)</p>
+    }
+
+
+}

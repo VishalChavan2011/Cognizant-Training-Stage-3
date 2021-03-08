@@ -15,3 +15,12 @@ C:\Users\hp\Documents\Nunit Testing\CalcLibrarySession2\CalcLibrary\obj\Debug\ne
 C:\Users\hp\Documents\Nunit Testing\CalcLibrarySession2\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.CoreCompileInputs.cache
 C:\Users\hp\Documents\Nunit Testing\CalcLibrarySession2\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.dll
 C:\Users\hp\Documents\Nunit Testing\CalcLibrarySession2\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.pdb
+D:\Cognizant Stage 3\Nunit Testing\CalcLibrarySession2\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.deps.json
+D:\Cognizant Stage 3\Nunit Testing\CalcLibrarySession2\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.dll
+D:\Cognizant Stage 3\Nunit Testing\CalcLibrarySession2\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.pdb
+D:\Cognizant Stage 3\Nunit Testing\CalcLibrarySession2\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csprojAssemblyReference.cache
+D:\Cognizant Stage 3\Nunit Testing\CalcLibrarySession2\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfoInputs.cache
+D:\Cognizant Stage 3\Nunit Testing\CalcLibrarySession2\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfo.cs
+D:\Cognizant Stage 3\Nunit Testing\CalcLibrarySession2\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.CoreCompileInputs.cache
+D:\Cognizant Stage 3\Nunit Testing\CalcLibrarySession2\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.dll
+D:\Cognizant Stage 3\Nunit Testing\CalcLibrarySession2\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.pdb

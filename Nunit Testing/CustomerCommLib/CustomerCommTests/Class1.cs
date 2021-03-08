@@ -20,8 +20,9 @@ namespace CustomerCommTests
             bool check = false;
         }
         
-        [TestCase("vishal","this is message",true)]
-        [TestCase("vishal@cognizant.com", "Welcome Cognizant", true)]
+        [TestCase("vishal","this is message",false)]
+        [TestCase("vishal@cognizant.com", "Welcome Cognizant", false)]
+        [TestCase("cust123@abc.com", "Some Message",true)]
         
         public void testfun(string toAddress,string message,bool check) 
         {
