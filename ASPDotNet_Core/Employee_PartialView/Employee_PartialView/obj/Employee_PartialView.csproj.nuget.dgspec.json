@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Documents\\Cognizant Pratice\\ASP.Net_Core\\Employee_PartialView\\Employee_PartialView\\Employee_PartialView.csproj": {}
+    "D:\\Cognizant Stage 3\\ASPDotNet_Core\\Employee_PartialView\\Employee_PartialView\\Employee_PartialView.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Documents\\Cognizant Pratice\\ASP.Net_Core\\Employee_PartialView\\Employee_PartialView\\Employee_PartialView.csproj": {
+    "D:\\Cognizant Stage 3\\ASPDotNet_Core\\Employee_PartialView\\Employee_PartialView\\Employee_PartialView.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Documents\\Cognizant Pratice\\ASP.Net_Core\\Employee_PartialView\\Employee_PartialView\\Employee_PartialView.csproj",
+        "projectUniqueName": "D:\\Cognizant Stage 3\\ASPDotNet_Core\\Employee_PartialView\\Employee_PartialView\\Employee_PartialView.csproj",
         "projectName": "Employee_PartialView",
-        "projectPath": "C:\\Users\\hp\\Documents\\Cognizant Pratice\\ASP.Net_Core\\Employee_PartialView\\Employee_PartialView\\Employee_PartialView.csproj",
+        "projectPath": "D:\\Cognizant Stage 3\\ASPDotNet_Core\\Employee_PartialView\\Employee_PartialView\\Employee_PartialView.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Documents\\Cognizant Pratice\\ASP.Net_Core\\Employee_PartialView\\Employee_PartialView\\obj\\",
+        "outputPath": "D:\\Cognizant Stage 3\\ASPDotNet_Core\\Employee_PartialView\\Employee_PartialView\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

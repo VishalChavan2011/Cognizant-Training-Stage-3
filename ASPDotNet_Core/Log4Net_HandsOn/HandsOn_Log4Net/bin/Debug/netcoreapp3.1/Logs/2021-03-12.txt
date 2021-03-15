@@ -1,0 +1,4 @@
+2021-03-12 12:35:05,039ERRORHandsOn_Log4Net.Models.LoggerManager-Starting Host Application 
+ 
+2021-03-12 12:35:05,722ERRORHandsOn_Log4Net.Models.LoggerManager-Exception : My Custom Exception 
+ 
