@@ -1,0 +1,26 @@
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.exe
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.deps.json
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.runtimeconfig.json
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.runtimeconfig.dev.json
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.dll
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.pdb
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.csprojAssemblyReference.cache
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.AssemblyInfoInputs.cache
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.AssemblyInfo.cs
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.csproj.CoreCompileInputs.cache
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.dll
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.pdb
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.genruntimeconfig.cache
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Mediator_HandsOn\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.exe
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Mediator_HandsOn\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.deps.json
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Mediator_HandsOn\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.runtimeconfig.json
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Mediator_HandsOn\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.runtimeconfig.dev.json
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Mediator_HandsOn\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.dll
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Mediator_HandsOn\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.pdb
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Mediator_HandsOn\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.csprojAssemblyReference.cache
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Mediator_HandsOn\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.AssemblyInfoInputs.cache
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Mediator_HandsOn\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.AssemblyInfo.cs
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Mediator_HandsOn\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.csproj.CoreCompileInputs.cache
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Mediator_HandsOn\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.dll
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Mediator_HandsOn\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.pdb
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Mediator_HandsOn\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.genruntimeconfig.cache

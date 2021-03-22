@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PraticeCaseStudy_AbstractDesignPattern/1.0.0": {
+        "runtime": {
+          "PraticeCaseStudy_AbstractDesignPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PraticeCaseStudy_AbstractDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Singleton_HandsOn\bin\Debug\netcoreapp3.1\Singleton_HandsOn.exe
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Singleton_HandsOn\bin\Debug\netcoreapp3.1\Singleton_HandsOn.deps.json
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Singleton_HandsOn\bin\Debug\netcoreapp3.1\Singleton_HandsOn.runtimeconfig.json
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Singleton_HandsOn\bin\Debug\netcoreapp3.1\Singleton_HandsOn.runtimeconfig.dev.json
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Singleton_HandsOn\bin\Debug\netcoreapp3.1\Singleton_HandsOn.dll
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Singleton_HandsOn\bin\Debug\netcoreapp3.1\Singleton_HandsOn.pdb
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Singleton_HandsOn\obj\Debug\netcoreapp3.1\Singleton_HandsOn.csprojAssemblyReference.cache
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Singleton_HandsOn\obj\Debug\netcoreapp3.1\Singleton_HandsOn.AssemblyInfoInputs.cache
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Singleton_HandsOn\obj\Debug\netcoreapp3.1\Singleton_HandsOn.AssemblyInfo.cs
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Singleton_HandsOn\obj\Debug\netcoreapp3.1\Singleton_HandsOn.csproj.CoreCompileInputs.cache
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Singleton_HandsOn\obj\Debug\netcoreapp3.1\Singleton_HandsOn.dll
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Singleton_HandsOn\obj\Debug\netcoreapp3.1\Singleton_HandsOn.pdb
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Singleton_HandsOn\obj\Debug\netcoreapp3.1\Singleton_HandsOn.genruntimeconfig.cache

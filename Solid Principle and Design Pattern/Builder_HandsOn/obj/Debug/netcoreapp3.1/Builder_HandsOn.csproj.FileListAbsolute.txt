@@ -1,0 +1,13 @@
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Builder_HandsOn\bin\Debug\netcoreapp3.1\Builder_HandsOn.exe
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Builder_HandsOn\bin\Debug\netcoreapp3.1\Builder_HandsOn.deps.json
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Builder_HandsOn\bin\Debug\netcoreapp3.1\Builder_HandsOn.runtimeconfig.json
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Builder_HandsOn\bin\Debug\netcoreapp3.1\Builder_HandsOn.runtimeconfig.dev.json
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Builder_HandsOn\bin\Debug\netcoreapp3.1\Builder_HandsOn.dll
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Builder_HandsOn\bin\Debug\netcoreapp3.1\Builder_HandsOn.pdb
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Builder_HandsOn\obj\Debug\netcoreapp3.1\Builder_HandsOn.csprojAssemblyReference.cache
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Builder_HandsOn\obj\Debug\netcoreapp3.1\Builder_HandsOn.AssemblyInfoInputs.cache
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Builder_HandsOn\obj\Debug\netcoreapp3.1\Builder_HandsOn.AssemblyInfo.cs
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Builder_HandsOn\obj\Debug\netcoreapp3.1\Builder_HandsOn.csproj.CoreCompileInputs.cache
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Builder_HandsOn\obj\Debug\netcoreapp3.1\Builder_HandsOn.dll
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Builder_HandsOn\obj\Debug\netcoreapp3.1\Builder_HandsOn.pdb
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Builder_HandsOn\obj\Debug\netcoreapp3.1\Builder_HandsOn.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\FinalCaseStudy_AbstractPattern\obj\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.csprojAssemblyReference.cache
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\FinalCaseStudy_AbstractPattern\obj\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.AssemblyInfoInputs.cache
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\FinalCaseStudy_AbstractPattern\obj\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.AssemblyInfo.cs
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\FinalCaseStudy_AbstractPattern\obj\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.csproj.CoreCompileInputs.cache
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\FinalCaseStudy_AbstractPattern\bin\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.exe
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\FinalCaseStudy_AbstractPattern\bin\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.deps.json
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\FinalCaseStudy_AbstractPattern\bin\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.runtimeconfig.json
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\FinalCaseStudy_AbstractPattern\bin\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.runtimeconfig.dev.json
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\FinalCaseStudy_AbstractPattern\bin\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.dll
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\FinalCaseStudy_AbstractPattern\bin\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.pdb
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\FinalCaseStudy_AbstractPattern\obj\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.dll
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\FinalCaseStudy_AbstractPattern\obj\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.pdb
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\FinalCaseStudy_AbstractPattern\obj\Debug\netcoreapp3.1\FinalCaseStudy_AbstractPattern.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Facade_HandsOn\bin\Debug\netcoreapp3.1\Facade_HandsOn.exe
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Facade_HandsOn\bin\Debug\netcoreapp3.1\Facade_HandsOn.deps.json
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Facade_HandsOn\bin\Debug\netcoreapp3.1\Facade_HandsOn.runtimeconfig.json
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Facade_HandsOn\bin\Debug\netcoreapp3.1\Facade_HandsOn.runtimeconfig.dev.json
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Facade_HandsOn\bin\Debug\netcoreapp3.1\Facade_HandsOn.dll
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Facade_HandsOn\bin\Debug\netcoreapp3.1\Facade_HandsOn.pdb
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Facade_HandsOn\obj\Debug\netcoreapp3.1\Facade_HandsOn.AssemblyInfoInputs.cache
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Facade_HandsOn\obj\Debug\netcoreapp3.1\Facade_HandsOn.AssemblyInfo.cs
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Facade_HandsOn\obj\Debug\netcoreapp3.1\Facade_HandsOn.csproj.CoreCompileInputs.cache
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Facade_HandsOn\obj\Debug\netcoreapp3.1\Facade_HandsOn.dll
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Facade_HandsOn\obj\Debug\netcoreapp3.1\Facade_HandsOn.pdb
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Facade_HandsOn\obj\Debug\netcoreapp3.1\Facade_HandsOn.genruntimeconfig.cache

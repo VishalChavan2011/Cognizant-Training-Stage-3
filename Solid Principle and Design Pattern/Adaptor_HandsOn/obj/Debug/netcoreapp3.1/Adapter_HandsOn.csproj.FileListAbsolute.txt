@@ -1,0 +1,13 @@
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Adaptor_HandsOn\bin\Debug\netcoreapp3.1\Adapter_HandsOn.exe
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Adaptor_HandsOn\bin\Debug\netcoreapp3.1\Adapter_HandsOn.deps.json
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Adaptor_HandsOn\bin\Debug\netcoreapp3.1\Adapter_HandsOn.runtimeconfig.json
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Adaptor_HandsOn\bin\Debug\netcoreapp3.1\Adapter_HandsOn.runtimeconfig.dev.json
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Adaptor_HandsOn\bin\Debug\netcoreapp3.1\Adapter_HandsOn.dll
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Adaptor_HandsOn\bin\Debug\netcoreapp3.1\Adapter_HandsOn.pdb
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Adaptor_HandsOn\obj\Debug\netcoreapp3.1\Adapter_HandsOn.AssemblyInfoInputs.cache
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Adaptor_HandsOn\obj\Debug\netcoreapp3.1\Adapter_HandsOn.AssemblyInfo.cs
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Adaptor_HandsOn\obj\Debug\netcoreapp3.1\Adapter_HandsOn.csproj.CoreCompileInputs.cache
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Adaptor_HandsOn\obj\Debug\netcoreapp3.1\Adapter_HandsOn.dll
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Adaptor_HandsOn\obj\Debug\netcoreapp3.1\Adapter_HandsOn.pdb
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Adaptor_HandsOn\obj\Debug\netcoreapp3.1\Adapter_HandsOn.genruntimeconfig.cache
+D:\Cognizant Stage 3\Solid Principle and Design Pattern\Adaptor_HandsOn\obj\Debug\netcoreapp3.1\Adapter_HandsOn.csprojAssemblyReference.cache
